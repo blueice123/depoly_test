@@ -4,7 +4,7 @@ require 'aws-sdk-for-php/aws-autoloader.php';
 use Aws\S3\S3Client;
 
 // Database connection parameters
-$db_hostname = "localhost";
+$db_hostname = "username.c6gradmwj7dj.ap-northeast-2.rds.amazonaws.com";
 $db_database = "web_demo";
 $db_username = "username";
 $db_password = "password";
